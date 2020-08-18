@@ -2,12 +2,18 @@
 
 ## I'm a Student, Photographer, and Developer!
 
--- 📷 I’m a Passionate Photographer !
--- 💻 I’m currently learning React 
--- 👕 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
--- ▶  I'm currently making Videos on a Sportz Youtube Channel Named [Sportz Hut][sportzhut]
--- 🥅 2020 Goals: Being Flunt in React
--- ❤ Fun fact: I love to Play Pokémon Go so much
+➖ 📷 I’m a Passionate Photographer !
+<br/>
+➖ 💻 I’m currently learning React 
+<br/>
+➖ 👕 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
+<br/>
+➖ ▶  I'm currently making Videos on a Sportz Youtube Channel Named [Sportz Hut][sportzhut]
+<br/>
+➖ 🥅 2020 Goals: Being Flunt in React
+<br/>
+➖ ❤ Fun fact: I love to Play Pokémon Go so much
+<br/>
 
 ### Connect with me:
 
