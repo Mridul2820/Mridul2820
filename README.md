@@ -61,13 +61,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mridul2820&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats.mridul28.vercel.app
+/api?username=mridul2820&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
 
 </details>
 
 <details>
   <summary>:zap: Language Card</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats.mridul28.vercel.app
+/api/top-langs/?username=mridul2820&&layout=compact" />
 </details>
 
 
