@@ -6,7 +6,7 @@
 - 👕 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
 - 💻 I’m currently learning React 
 - 🥅 2020 Goals: Being Flunt in React
-- ❤ Fun fact: I love to Pokémon Go so much
+- ❤ Fun fact: I love to Play Pokémon Go so much
 
 ### Connect with me:
 
@@ -35,10 +35,14 @@
 <br />
 <br />
 
+# 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [myprofile]: https://github.com/Mridul2820
 [website]: https://imridul.com
 [hattsoff]: https://www.hattsoffstore.com/
 [twitter]: https://twitter.com/i_mridul
 [facebook]: https://www.facebook.com/mridul.2820/
-[youtube]: https://www.youtube.com/channel/UCj-Qe2kYicov_HYpVAKc1uw
+[youtube]: https://www.youtube.com/channel/UC0Qlfx5uoTJKwat8iWl3vsA
 [instagram]: https://www.instagram.com/i_mridul
