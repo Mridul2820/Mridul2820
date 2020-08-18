@@ -35,9 +35,23 @@
 <br />
 <br />
 
+---
+
 # 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+➡️ [more videos...][youtube]
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
 
 [myprofile]: https://github.com/Mridul2820
 [website]: https://imridul.com
