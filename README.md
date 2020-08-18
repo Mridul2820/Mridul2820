@@ -58,18 +58,17 @@
 
 <br />
 
+## Language Card
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
+
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api?username=mridul2820&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
 
 </details>
-<br />
-
-## Language Card
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
-
-
 
 [myprofile]: https://github.com/Mridul2820
 [website]: https://imridul.com
