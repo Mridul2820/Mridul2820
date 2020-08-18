@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Passionate Photographer !
 - 🌱 I’m currently learning React 
-- 👯 I’m currently with a t-shirt site [Hattsoffstore][hattsoffstore.com]
+- 👯 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Pokemon Go so much
 
@@ -13,8 +13,9 @@
 [<img align="left" alt="mridul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="mridul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mridul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <br />
 
@@ -42,6 +43,7 @@
 
 
 [website]: https://imridul.com
+[hattsoff]: https://www.hattsoffstore.com/
 [twitter]: https://twitter.com/i_mridul
 [facebook]: https://www.facebook.com/mridul.2820/
 [youtube]: https://www.youtube.com/channel/UCj-Qe2kYicov_HYpVAKc1uw
