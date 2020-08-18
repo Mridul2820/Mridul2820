@@ -2,17 +2,17 @@
 
 ## I'm a Student, Photographer, and Developer!
 
-➖ 📷 I’m a Passionate Photographer !
+◾ 📷 I’m a Passionate Photographer !
 <br/>
-➖ 💻 I’m currently learning React 
+◾ 💻 I’m currently learning React 
 <br/>
-➖ 👕 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
+◾ 👕 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
 <br/>
-➖ ▶  I'm currently making Videos on a Sportz Youtube Channel Named [Sportz Hut][sportzhut]
+◾ ▶  I'm currently making Videos on a Sportz Youtube Channel Named [Sportz Hut][sportzhut]
 <br/>
-➖ 🥅 2020 Goals: Being Flunt in React
+◾ 🥅 2020 Goals: Being Flunt in React
 <br/>
-➖ ❤ Fun fact: I love to Play Pokémon Go so much
+◾ ❤ Fun fact: I love to Play Pokémon Go so much
 <br/>
 
 ### Connect with me:
