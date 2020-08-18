@@ -22,13 +22,13 @@
 
 [<img align="left" alt="mridul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][sportzhut]
-[<img align="left" alt="mridul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mridul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-### 🧾 Languages and Tools I use:
+### ⚙ Languages and Tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][myprofile]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][myprofile]
@@ -47,7 +47,7 @@
 
 ---
 
-## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut]
+## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
 - [ATK Mohunbagan FC New Signing🖊️ | ISL All Team Transfer Update🔥 | ISL New  Update💥| Sportz Hut](https://www.youtube.com/watch?v=i-qlER43T1k)
 - [Patanjali bidding for IPL Title sponsorship | Eng Vs Pak 1st Test | Aus Vs Ind Boxing Day Test News](https://www.youtube.com/watch?v=rRnCkmlYEm8)
