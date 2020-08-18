@@ -68,14 +68,12 @@
 
 </details>
 
----
-
-<br />
-
 <details>
   <summary>:zap: Language Card</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
 </details>
+
+---
 
 [myprofile]: https://github.com/Mridul2820
 [website]: https://imridul.com
