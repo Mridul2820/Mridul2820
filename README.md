@@ -15,10 +15,10 @@
 ◾ ❤ Fun fact: I love to Play Pokémon Go so much
 <br/>
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing 
 [<img src="https://novatorem-git-master.mridul28.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />][myprofile]
 
-### Connect with me:
+### 🧧 Connect with me:
 
 [<img align="left" alt="mridul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][sportzhut]
@@ -28,7 +28,7 @@
 
 <br />
 
-### Languages and Tools I use:
+### 🧾 Languages and Tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][myprofile]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][myprofile]
@@ -59,7 +59,7 @@
 
 ---
 
-## Language Card
+## 💳 Language Card
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
 
 <br />
