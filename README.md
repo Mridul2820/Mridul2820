@@ -59,6 +59,8 @@
 </details>
 
 ---
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -67,6 +69,8 @@
 </details>
 
 ---
+
+<br />
 
 <details>
   <summary>:zap: Language Card</summary>
