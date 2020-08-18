@@ -1,4 +1,4 @@
-### Hi, I'm [Mridul][imridul.com]
+### Hi, I'm [Mridul][website]
 
 ## I'm a Student, Photographer, and Developer!
 
