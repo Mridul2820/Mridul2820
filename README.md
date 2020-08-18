@@ -44,7 +44,7 @@
 
 ---
 
-# 📺 Latest YouTube Videos on [Sportz Hut][sportzhut]
+## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut]
 <!-- YOUTUBE:START -->
 - [ATK Mohunbagan FC New Signing🖊️ | ISL All Team Transfer Update🔥 | ISL New  Update💥| Sportz Hut](https://www.youtube.com/watch?v=i-qlER43T1k)
 - [Patanjali bidding for IPL Title sponsorship | Eng Vs Pak 1st Test | Aus Vs Ind Boxing Day Test News](https://www.youtube.com/watch?v=rRnCkmlYEm8)
@@ -64,11 +64,11 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api?username=mridul2820&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
 
 </details>
+<br />
 
-<details>
-  <summary>:zap: Language Card</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
-</details>
+## Language Card
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
+
 
 
 [myprofile]: https://github.com/Mridul2820
