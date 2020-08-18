@@ -58,6 +58,13 @@
 
 </details>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mridul2820&show_icons=true&hide_border=true" />
+
+</details>
+
 [myprofile]: https://github.com/Mridul2820
 [website]: https://imridul.com
 [hattsoff]: https://www.hattsoffstore.com/
