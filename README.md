@@ -2,16 +2,17 @@
 
 ## I'm a Student, Photographer, and Developer!
 
-- 📷 I’m a Passionate Photographer !
-- 👕 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
-- 💻 I’m currently learning React 
-- 🥅 2020 Goals: Being Flunt in React
-- ❤ Fun fact: I love to Play Pokémon Go so much
+-- 📷 I’m a Passionate Photographer !
+-- 💻 I’m currently learning React 
+-- 👕 I’m currently with a t-shirt site [Hattsoffstore][hattsoff]
+-- ▶  I'm currently making Videos on a Sportz Youtube Channel Named [Sportz Hut][sportzhut]
+-- 🥅 2020 Goals: Being Flunt in React
+-- ❤ Fun fact: I love to Play Pokémon Go so much
 
 ### Connect with me:
 
 [<img align="left" alt="mridul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][sportzhut]
 [<img align="left" alt="mridul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -37,7 +38,7 @@
 
 ---
 
-# 📺 Latest YouTube Videos
+# 📺 Latest YouTube Videos on [Sportz Hut][sportzhut]
 <!-- YOUTUBE:START -->
 - [ATK Mohunbagan FC New Signing🖊️ | ISL All Team Transfer Update🔥 | ISL New  Update💥| Sportz Hut](https://www.youtube.com/watch?v=i-qlER43T1k)
 - [Patanjali bidding for IPL Title sponsorship | Eng Vs Pak 1st Test | Aus Vs Ind Boxing Day Test News](https://www.youtube.com/watch?v=rRnCkmlYEm8)
@@ -45,7 +46,7 @@
 - [Broad takes 500 Test Wickets | England Beats West Indies 2-1 | Sportz Hut](https://www.youtube.com/watch?v=0zuubEq-8lg)
 - [Real Madrid LaLiga  CHAMPIONS 2019/2020🔥 | LaLiga 19/20 Moments | LaLiga CHAMPIONS 19/20 |Sportz Hut](https://www.youtube.com/watch?v=81EDI4JiPhM)
 <!-- YOUTUBE:END -->
-➡️ [more videos...][youtube]
+➡️ [more sportz videos...][sportzhut]
 
 ---
 
@@ -66,8 +67,8 @@
 
 [myprofile]: https://github.com/Mridul2820
 [website]: https://imridul.com
-[hattsoff]: https://www.hattsoffstore.com/
-[twitter]: https://twitter.com/i_mridul
+[sportzhut]: https://www.youtube.com/channel/UC0Qlfx5uoTJKwat8iWl3vsA
 [facebook]: https://www.facebook.com/mridul.2820/
-[youtube]: https://www.youtube.com/channel/UC0Qlfx5uoTJKwat8iWl3vsA
 [instagram]: https://www.instagram.com/i_mridul
+[twitter]: https://twitter.com/i_mridul
+[hattsoff]: https://www.hattsoffstore.com/
