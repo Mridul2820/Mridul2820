@@ -1,14 +1,14 @@
 ### Hi, I'm [Mridul][website]
 
-## I'm a Student, Photographer, and Developer!
+## I'm a Student, Photographer, and Web Developer!
 
 ◾ 📷 I’m a Passionate **Photographer !**
 <br/>
-◾ 💻 I’m currently learning React 
+◾ 💻 currently learning React 
 <br/>
-◾ 👕 I’m currently with a t-shirt site **[Hattsoffstore][hattsoff]**
+◾ 👕 currently with a t-shirt site **[Hattsoffstore][hattsoff]**
 <br/>
-◾ ▶  I'm currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**
+◾ ▶  currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**
 <br/>
 ◾ 🥅 2020 Goals: Being Fluent in React
 <br/>
