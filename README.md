@@ -10,7 +10,7 @@
 <br/>
 ◾ ▶  I'm currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**
 <br/>
-◾ 🥅 2020 Goals: Being Flunt in React
+◾ 🥅 2020 Goals: Being Fluent in React
 <br/>
 ◾ ❤ Fun fact: I love to Play **Pokémon Go** so much
 <br/>
