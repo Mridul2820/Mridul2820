@@ -2,13 +2,13 @@
 
 ## I'm a Student, Photographer, and Web Developer!
 
-◾ 📷 I’m a Passionate **Photographer !**
+◾ 📷 A Passionate **Photographer !**
 <br/>
-◾ 💻 currently learning React 
+◾ 💻 Currently learning React 
 <br/>
-◾ 👕 currently with a t-shirt site **[Hattsoffstore][hattsoff]**
+◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**
 <br/>
-◾ ▶  currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**
+◾ ▶  Currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**
 <br/>
 ◾ 🥅 2020 Goals: Being Fluent in React
 <br/>
