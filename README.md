@@ -49,11 +49,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
+- [IPL 2020 - Raina Out of IPL 2020 | 12 CSK players tested Covid Positive | Sportz Hut](https://www.youtube.com/watch?v=wSNbLHQOKZY)
 - [IPL 2020 - Replacement Announced for 4 big players | Jason Roy Replacement | KKR Replacement](https://www.youtube.com/watch?v=7o9hJJ3CjNU)
 - [MS Dhoni RETIRES from INTERNATIONAL cricket | Tribute to MS Dhoni & Suresh Raina | Sportz Hut](https://www.youtube.com/watch?v=XJrJxUb_CVc)
 - [ATK Mohunbagan FC New Signing🖊️ | ISL All Team Transfer Update🔥 | ISL New  Update💥| Sportz Hut](https://www.youtube.com/watch?v=i-qlER43T1k)
 - [Patanjali bidding for IPL Title sponsorship | Eng Vs Pak 1st Test | Aus Vs Ind Boxing Day Test News](https://www.youtube.com/watch?v=rRnCkmlYEm8)
-- [IPL 2020 New Updates🔥 | Vivo Pulls Out of IPL 2020 | IPL Schedule💥 | IPL Match Timings🏏 | Sportz Hut](https://www.youtube.com/watch?v=g3bViPSTEhI)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
