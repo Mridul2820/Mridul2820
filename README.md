@@ -2,21 +2,21 @@
 
 ## I'm a Student, Photographer, and Web Developer!
 
-◾ 📷 A Passionate **Photographer !**
+◾ 📷 A Passionate **[Photographer !][instagram]**.
 <br/>
-◾ 💻 Currently learning React 
+◾ 💻 Currently learning **[React][react]**.
 <br/>
-◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**
+◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
 <br/>
-◾ ▶  Currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**
+◾ ▶  Currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**.
 <br/>
-◾ 🥅 2020 Goals: Being Fluent in React
+◾ 🥅 2020 Goals: Being Fluent in **[React][react]**.
 <br/>
-◾ ❤ Fun fact: I love to Play **Pokémon Go** so much
+◾ ❤ Fun fact: I love to Play **Pokémon Go** so much.
 <br/>
 
 ### 🎧 Spotify Playing 
-[<img src="https://novatorem-git-master.mridul28.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />][myprofile]
+[<img src="https://novatorem-git-master.mridul28.vercel.app/api/spotify-playing" alt="Mriduls Spotify Playing" width="400" />][myprofile]
 
 ### 🧧 Connect with me:
 
@@ -78,3 +78,4 @@
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
 [hattsoff]: https://www.hattsoffstore.com/
+[react]: https://reactjs.org/
