@@ -2,7 +2,7 @@
 
 ## I'm a Student, Photographer, and Web Developer!
 
-◾ 📷 A Passionate **[Photographer !][instagram]**.
+◾ 📷 A Passionate **[Photographer !][instagram]**
 <br/>
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
