@@ -49,11 +49,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
+- [Cristiano Ronaldo 100th international goal for Portugal | Ronaldo Free Kick goal against Sweden](https://www.youtube.com/watch?v=5zfjy_ZlMR4)
 - [ICC World Cup New Venues | #12YearsOfKholi |Chahal & Shankar Marriage | R.Sharma Receives Khel Ratna](https://www.youtube.com/watch?v=lqqCe97ucOE)
 - [Australia & England Players to miss first week of IPL | Which Team Will be most Effected? Sportz Hut](https://www.youtube.com/watch?v=SJ3-BLzEs24)
 - [IPL 2020 - Raina Out of IPL 2020 | 12 CSK players tested Covid Positive | Sportz Hut](https://www.youtube.com/watch?v=wSNbLHQOKZY)
 - [IPL 2020 - Replacement Announced for 4 big players | Jason Roy Replacement | KKR Replacement](https://www.youtube.com/watch?v=7o9hJJ3CjNU)
-- [MS Dhoni RETIRES from INTERNATIONAL cricket | Tribute to MS Dhoni & Suresh Raina | Sportz Hut](https://www.youtube.com/watch?v=XJrJxUb_CVc)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
