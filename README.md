@@ -49,11 +49,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
+- [IPL 2020 - UAE IPL 2020 Schedule Announced💥 | MI vs CSK First Match | IPL 2020 Final | Sportz Hut](https://www.youtube.com/watch?v=WR9IxDFLxx8)
 - [CPL 2020 CHAMPION | TKR vs SLZ | CPL 2020 Final | Sportz Hut](https://www.youtube.com/watch?v=NIQXtOWoRL4)
 - [Sergio Ramos 15 years at RMA | Journey of Sergio Ramos | Sportz Hut](https://www.youtube.com/watch?v=kRkL84-57do)
 - [Cristiano Ronaldo 100th international goal for Portugal | Ronaldo Free Kick goal against Sweden](https://www.youtube.com/watch?v=5zfjy_ZlMR4)
 - [ICC World Cup New Venues | #12YearsOfKholi |Chahal & Shankar Marriage | R.Sharma Receives Khel Ratna](https://www.youtube.com/watch?v=lqqCe97ucOE)
-- [Australia & England Players to miss first week of IPL | Which Team Will be most Effected? Sportz Hut](https://www.youtube.com/watch?v=SJ3-BLzEs24)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
