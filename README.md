@@ -53,7 +53,7 @@
 - [CPL 2020 CHAMPION | TKR vs SLZ | CPL 2020 Final | Sportz Hut](https://www.youtube.com/watch?v=NIQXtOWoRL4)
 - [Sergio Ramos 15 years at RMA | Journey of Sergio Ramos | Sportz Hut](https://www.youtube.com/watch?v=kRkL84-57do)
 - [Cristiano Ronaldo 100th international goal for Portugal | Ronaldo Free Kick goal against Sweden](https://www.youtube.com/watch?v=5zfjy_ZlMR4)
-- [ICC World Cup New Venues | #12YearsOfKholi |Chahal & Shankar Marriage | R.Sharma Receives Khel Ratna](https://www.youtube.com/watch?v=lqqCe97ucOE)
+- [#12YearsofKohli | ICC World Cup NEW Venue | Chahal & Shankar Marriage | R.Sharma Receives Khel Ratna](https://www.youtube.com/watch?v=lqqCe97ucOE)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
