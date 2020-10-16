@@ -49,7 +49,7 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
-- [Captain Eoin Morgan 🔥 | Play Date feat. Morgan 😍 | Kolkata Knight Riders | KKR Captain 💜](https://www.youtube.com/watch?v=ut340mQZv5c)
+- [Captain Eoin Morgan 🔥 | Play Date feat. Morgan 😍 | KKR Captain Eoin Morgan 💜](https://www.youtube.com/watch?v=ut340mQZv5c)
 - [IPL2020 - Kolkata Knight Riders vs Mumbai Indians Pre-match Analysis | Playing 11 | Match Prediction](https://www.youtube.com/watch?v=A7YIef9hkfU)
 - [MI vs CSK Match Prediction💯 | IPL 2020 Match 1 Analysis | Sportz Hut🔥](https://www.youtube.com/watch?v=n1e3OHTIdB4)
 - [IPL 2020 - UAE IPL 2020 Schedule Announced💥 | MI vs CSK First Match | IPL 2020 Final | Sportz Hut](https://www.youtube.com/watch?v=WR9IxDFLxx8)
