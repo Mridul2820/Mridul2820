@@ -49,7 +49,7 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
-- [Virat Kohli Birthday Status | Kholi Whatsapp Status | Kohli BIrthday Status](https://www.youtube.com/watch?v=JlcUoAEodoQ)
+- [Virat Kohli Whatsapp Status | Happy Birthday Virat Kohli | Virat Kohli Birthday WhatsApp Status](https://www.youtube.com/watch?v=JlcUoAEodoQ)
 - [Happy Birthday Virat Kohli 💙| The Viraat Journey | Virat turns to 32 | SportzHut🔥](https://www.youtube.com/watch?v=_woOaDQ8178)
 - [KKR | Kolkata Knight Riders Ft. omething Just Like This | Korbo Lorbo Jitbo | KKR IPL Journey](https://www.youtube.com/watch?v=sCysyB50Fko)
 - [David Warner is spending some quality funny time with his family | Warner Tiktok | Sportz hut](https://www.youtube.com/watch?v=wE64re4Y2UU)
