@@ -58,11 +58,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
-- [Krunal Pandya IPL Auction 2016](https://www.youtube.com/watch?v=MS6WsxxOxfQ)
-- [Hardik Pandya IPL Auction 2015](https://www.youtube.com/watch?v=yUI_-vupuBg)
 - [David Warner has a Parting message for SRH Fans and his Team Mates 😍🧡](https://www.youtube.com/watch?v=7kDgwzI1wbw)
 - [Chahal With Dhanashree New Video | Chahal Funny Videos | Sportz Hut](https://www.youtube.com/watch?v=F2juRuXZ5sQ)
 - [Virat Kohli Birthday Celebration With Wife Anushka And Team RCB | Virat Kohli Birthday Party 2020](https://www.youtube.com/watch?v=M2JaoaLVvzo)
+- [Virat Kohli Whatsapp Status | Happy Birthday Virat Kohli | Virat Kohli Birthday WhatsApp Status](https://www.youtube.com/watch?v=JlcUoAEodoQ)
+- [Happy Birthday Virat Kohli 💙| The Viraat Journey | Virat King Kohli | SportzHut🔥](https://www.youtube.com/watch?v=_woOaDQ8178)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
