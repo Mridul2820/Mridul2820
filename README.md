@@ -59,7 +59,7 @@
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
 - [Team India Retro Jersey🔥 | New look of Team 🤩 | Sportz Hut](https://www.youtube.com/watch?v=YRcvXFXn0eQ)
-- [Phil Hughes struck in head by bouncer from Sean Abbott at SCG | Phil Hughes 1988 - 2014](https://www.youtube.com/watch?v=m7cWGKtEM0k)
+- [Happy Birthday Phil Hughes #63NotOut | Cricket will remember you forever](https://www.youtube.com/watch?v=m7cWGKtEM0k)
 - [Rohit & Bumrah making fun of Yuzi Chahal on their Insta live 😂 & Now Chahal is Ready](https://www.youtube.com/watch?v=7SgBWVZA9bo)
 - [Virat Kohli practice Sesion in Australia](https://www.youtube.com/watch?v=IlzpX3nvfYM)
 - [Yuzi back in action in blue jersey💙🔥](https://www.youtube.com/watch?v=wsCvCIX2rDc)
