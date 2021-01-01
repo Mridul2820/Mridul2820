@@ -1,4 +1,4 @@
-## Hi, I'm [Mridul][website]
+## Hi, I'm Mridul
 
 ## I'm a Student, Photographer, and Web Developer!
 
@@ -81,7 +81,6 @@
 </details>
 
 [myprofile]: https://github.com/Mridul2820
-[website]: https://imridul.com
 [sportzhut]: https://www.youtube.com/channel/UC0Qlfx5uoTJKwat8iWl3vsA
 [facebook]: https://www.facebook.com/mridul.2820/
 [instagram]: https://www.instagram.com/i_mridul
