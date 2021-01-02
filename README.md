@@ -8,6 +8,8 @@
 <br/>
 ◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
 <br/>
+◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
+<br/>
 ◾ ▶  Currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**.
 <br/>
 ◾ 🥅 2020 Goals: Being Fluent in **[React][react]**.
@@ -20,7 +22,6 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][sportzhut]
 [<img align="left" alt="mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mridul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -81,6 +82,7 @@
 </details>
 
 [myprofile]: https://github.com/Mridul2820
+[CricHut]: https://www.facebook.com/crichutcricket/
 [sportzhut]: https://www.youtube.com/channel/UC0Qlfx5uoTJKwat8iWl3vsA
 [facebook]: https://www.facebook.com/mridul.2820/
 [instagram]: https://www.instagram.com/i_mridul
