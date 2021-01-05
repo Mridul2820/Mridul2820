@@ -12,7 +12,7 @@
 <br/>
 ◾ ▶  Currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**.
 <br/>
-◾ 🥅 2020 Goals: Being Fluent in **[React][react]**.
+◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** so much.
 <br/>
