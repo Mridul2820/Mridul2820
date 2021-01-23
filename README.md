@@ -18,9 +18,6 @@
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** so much.
 <br/>
 
-### 🎧 Spotify Playing 
-[<img src="https://novatorem-git-master.mridul28.vercel.app/api/spotify-playing" alt="Mriduls Spotify Playing" width="400" />][myprofile]
-
 ### 🧧 Connect with me:
 
 [<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][sportzhut]
