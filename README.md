@@ -5,8 +5,6 @@
 
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
-◾ 📷 A Passionate **[Photographer !][instagram]**
-<br/>
 ◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
 <br/>
 ◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
