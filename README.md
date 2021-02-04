@@ -24,6 +24,9 @@
 [<img align="left" alt="mridul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+<br />
+
+<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
 
 ### ⚙ Languages and Tools  I use:
 
