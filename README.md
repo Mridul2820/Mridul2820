@@ -18,10 +18,10 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][sportzhut]
-[<img align="left" alt="mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="mridul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mridul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mridul | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/174/174883.png" />][sportzhut]
+[<img align="left" alt="mridul | Facebook" width="22px" src="https://img.flaticon.com/icons/png/512/145/145802.png" />][facebook]
+[<img align="left" alt="mridul | Instagram" width="22px" src="https://img.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="mridul | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/168/168802.png" />][twitter]
 
 <br />
 <br />
@@ -72,7 +72,7 @@
 ➡️ [more sportz videos...][sportzhut]
 
 ---
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />
 
 [myprofile]: https://github.com/Mridul2820
 [CricHut]: https://www.facebook.com/crichutcricket/
