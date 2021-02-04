@@ -53,6 +53,11 @@
 
 ---
 
+## 💳 Language Card
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
+
+---
+
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
 - [Warner's Daughter Wearing the Jersey of Virat Kohli | David Warner Daughter Is Virat Kohli Fan!](https://www.youtube.com/watch?v=mUDao8VPuOM)
@@ -64,9 +69,6 @@
 ➡️ [more sportz videos...][sportzhut]
 
 ---
-
-## 💳 Language Card
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
 
 
 [myprofile]: https://github.com/Mridul2820
