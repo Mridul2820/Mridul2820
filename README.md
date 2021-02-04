@@ -18,10 +18,10 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/174/174883.png" />][sportzhut]
-[<img align="left" alt="mridul | Facebook" width="22px" src="https://img.flaticon.com/icons/png/512/145/145802.png" />][facebook]
-[<img align="left" alt="mridul | Instagram" width="22px" src="https://img.flaticon.com/icons/png/512/174/174855.png" />][instagram]
-[<img align="left" alt="mridul | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/168/168802.png" />][twitter]
+[<img align="left" alt="mridul | YouTube" width="30px" src="https://image.flaticon.com/icons/png/512/174/174883.png" />][sportzhut]
+[<img align="left" alt="mridul | Facebook" width="30px" src="https://img.flaticon.com/icons/png/512/145/145802.png" />][facebook]
+[<img align="left" alt="mridul | Instagram" width="30px" src="https://img.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="mridul | Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/168/168802.png" />][twitter]
 
 <br />
 <br />
