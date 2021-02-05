@@ -18,15 +18,15 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul | YouTube" width="35px" src="https://mridul2820.github.io/github-assets/assets/youtube.svg" />][sportzhut]
-[<img align="left" alt="mridul | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/facebook.svg" />][facebook]
-[<img align="left" alt="mridul | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/instagram.svg" />][instagram]
-[<img align="left" alt="mridul | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/twitter.svg" />][twitter]
+[<img align="left" alt="mridul2820 | YouTube" width="35px" src="https://mridul2820.github.io/github-assets/assets/youtube.svg" />][sportzhut]
+[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/facebook.svg" />][facebook]
+[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/instagram.svg" />][instagram]
+[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/twitter.svg" />][twitter]
 
 <br />
 <br />
 
-
+[<img align="left" alt="mridul2820 | bmc" width="35px" src="https://mridul2820.github.io/github-assets/assets/BMC.svg" />][buymeacoffee]
 
 <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
 
@@ -77,6 +77,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />
 
 [myprofile]: https://github.com/Mridul2820
+[buymeacoffee]: https://www.buymeacoffee.com/Mriduls
 [CricHut]: https://www.facebook.com/crichutcricket/
 [sportzhut]: https://www.youtube.com/channel/UC0Qlfx5uoTJKwat8iWl3vsA
 [facebook]: https://www.facebook.com/mridul.panda.754/
