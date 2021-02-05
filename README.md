@@ -16,6 +16,8 @@
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** so much.
 <br/>
 
+---
+
 ### 🧧 Connect with me:
 
 [<img align="left" alt="mridul2820 | YouTube" width="35px" src="https://mridul2820.github.io/github-assets/assets/youtube.svg" />][sportzhut]
@@ -26,7 +28,12 @@
 <br />
 <br />
 
-[<img align="left" alt="mridul2820 | bmc" width="35px" src="https://mridul2820.github.io/github-assets/assets/BMC.svg" />][buymeacoffee]
+[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/BMC.svg" />][buymeacoffee]
+
+<br />
+<br />
+
+---
 
 <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
 
