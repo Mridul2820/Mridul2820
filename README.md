@@ -32,8 +32,10 @@
 
 [<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/BMC.svg" />][buymeacoffee]
 
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
 
 ### ⚙ Languages and Tools  I use:
 
@@ -49,9 +51,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />][myprofile]
 
 <br />
-<br />
-
----
 
 ### 🛠 Softwares I Use : 
 
