@@ -1,8 +1,8 @@
 ## Hi, I'm Mridul
 
-<img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
-
 ## I'm a Student, Photographer, and Web Developer!
+
+<img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
 
 
 ◾ 💻 Currently learning **[React][react]**.
@@ -32,8 +32,8 @@
 
 [<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/BMC.svg" />][buymeacoffee]
 
-<br />
-<br />
+<br>
+<br>
 
 ### ⚙ Languages and Tools  I use:
 
@@ -50,6 +50,8 @@
 
 <br />
 <br />
+
+---
 
 ### 🛠 Softwares I Use : 
 
