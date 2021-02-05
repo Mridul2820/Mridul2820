@@ -47,7 +47,7 @@
 [<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/react.svg" />][myprofile]
 [<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/node-js.png" />][myprofile]
 [<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/github.svg" />][myprofile]
-[<img align="left" alt="Firebase" width="33px" src="https://mridul2820.github.io/github-assets/assets/firebase.png" />][myprofile]
+[<img align="left" alt="Firebase" width="30px" src="https://mridul2820.github.io/github-assets/assets/firebase.png" />][myprofile]
 
 <br />
 <br />
