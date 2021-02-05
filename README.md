@@ -38,7 +38,7 @@
 <br />
 <br />
 
-### ⚙ Languages and Tools  I use:
+### ⚙ Languages and Tools  I use :
 
 [<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/html-5.svg" />][myprofile]
 [<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/css.svg" />][myprofile]
