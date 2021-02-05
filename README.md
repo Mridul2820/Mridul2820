@@ -40,16 +40,16 @@
 
 ### ⚙ Languages and Tools  I use:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][myprofile]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][myprofile]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][myprofile]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][myprofile]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][myprofile]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][myprofile]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][myprofile]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][myprofile]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][myprofile]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />][myprofile]
+[<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/html-5.svg" />][myprofile]
+[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/css.svg" />][myprofile]
+[<img align="left" alt="JavaScript" width="33px" src="https://mridul2820.github.io/github-assets/assets/javascript.svg" />][myprofile]
+[<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/sass.svg" />][myprofile]
+[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/react.svg" />][myprofile]
+[<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/node-js.png" />][myprofile]
+[<img align="left" alt="Git" width="33px" src="https://mridul2820.github.io/github-assets/assets/git.png" />][myprofile]
+[<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/github.png" />][myprofile]
+[<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/firebase.png" />][myprofile]
+[<img align="left" alt="MySQL" width="33px" src="https://mridul2820.github.io/github-assets/assets/mysql.png" />][myprofile]
 
 <br />
 
