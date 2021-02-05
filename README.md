@@ -18,13 +18,15 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul | YouTube" width="30px" src="https://image.flaticon.com/icons/png/512/174/174883.png" />][sportzhut]
-[<img align="left" alt="mridul | Facebook" width="30px" src="https://img.flaticon.com/icons/png/512/145/145802.png" />][facebook]
-[<img align="left" alt="mridul | Instagram" width="30px" src="https://img.flaticon.com/icons/png/512/174/174855.png" />][instagram]
-[<img align="left" alt="mridul | Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/168/168802.png" />][twitter]
+[<img align="left" alt="mridul | YouTube" width="35px" src="https://mridul2820.github.io/github-assets/assets/youtube.svg" />][sportzhut]
+[<img align="left" alt="mridul | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/facebook.svg" />][facebook]
+[<img align="left" alt="mridul | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/instagram.svg" />][instagram]
+[<img align="left" alt="mridul | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/twitter.svg" />][twitter]
 
 <br />
 <br />
+
+
 
 <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
 
