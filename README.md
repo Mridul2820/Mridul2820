@@ -46,10 +46,8 @@
 [<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/sass.svg" />][myprofile]
 [<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/react.svg" />][myprofile]
 [<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/node-js.png" />][myprofile]
-[<img align="left" alt="Git" width="33px" src="https://mridul2820.github.io/github-assets/assets/git.png" />][myprofile]
 [<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/github.svg" />][myprofile]
-[<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/firebase.png" />][myprofile]
-[<img align="left" alt="MySQL" width="33px" src="https://mridul2820.github.io/github-assets/assets/mysql.png" />][myprofile]
+[<img align="left" alt="Firebase" width="33px" src="https://mridul2820.github.io/github-assets/assets/firebase.png" />][myprofile]
 
 <br />
 
