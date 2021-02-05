@@ -1,5 +1,7 @@
 ## Hi, I'm Mridul
 
+<img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
+
 ## I'm a Student, Photographer, and Web Developer!
 
 
@@ -9,7 +11,7 @@
 <br/>
 ◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
 <br/>
-◾ ▶  Currently making Videos on a Sportz Youtube Channel Named **[Sportz Hut][sportzhut]**.
+◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
 <br/>
 ◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
 <br/>
@@ -32,10 +34,6 @@
 
 <br />
 <br />
-
----
-
-<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="500" height="400">
 
 ### ⚙ Languages and Tools  I use:
 
