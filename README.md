@@ -42,7 +42,7 @@
 
 [<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/html-5.svg" />][myprofile]
 [<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/css.svg" />][myprofile]
-[<img align="left" alt="JavaScript" width="33px" src="https://mridul2820.github.io/github-assets/assets/javascript.svg" />][myprofile]
+[<img align="left" alt="JavaScript" width="31px" src="https://mridul2820.github.io/github-assets/assets/javascript.svg" />][myprofile]
 [<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/sass.svg" />][myprofile]
 [<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/react.svg" />][myprofile]
 [<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/node-js.png" />][myprofile]
