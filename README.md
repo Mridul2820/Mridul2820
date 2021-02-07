@@ -15,7 +15,8 @@
 <br/>
 ◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
 <br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** so much.
+◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
+<br/>
 <br/>
 
 ---
