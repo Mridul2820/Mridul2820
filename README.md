@@ -1,6 +1,6 @@
 ## Hi, I'm Mridul
 
-## I'm a Student, Photographer, and Web Developer!
+## I'm a Student and Web Developer!
 
 <img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="450" height="350">
 
