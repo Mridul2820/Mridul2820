@@ -1,5 +1,5 @@
 
-<img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="450" height="350">
+<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" width="450" height="350">
 
 ## Hi, I'm Mridul
 
@@ -24,9 +24,9 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/facebook.svg" />][facebook]
-[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/instagram.svg" />][instagram]
-[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/twitter.svg" />][twitter]
+[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
+[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
+[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
 
 <br />
 <br />
@@ -44,14 +44,14 @@
 
 ### ⚙ Languages and Tools  I use :
 
-[<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/html-5.svg" />][myprofile]
-[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/css.svg" />][myprofile]
-[<img align="left" alt="JavaScript" width="31px" src="https://mridul2820.github.io/github-assets/assets/javascript.svg" />][myprofile]
-[<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/sass.svg" />][myprofile]
-[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/react.svg" />][myprofile]
-[<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/node-js.png" />][myprofile]
-[<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/github.svg" />][myprofile]
-[<img align="left" alt="Firebase" width="33px" src="https://mridul2820.github.io/github-assets/assets/firebase.png" />][myprofile]
+[<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
+[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
+[<img align="left" alt="JavaScript" width="31px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
+[<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
+[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
+[<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />][myprofile]
+[<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/github.svg" />][myprofile]
+[<img align="left" alt="Firebase" width="35px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
 
 <br />
 
