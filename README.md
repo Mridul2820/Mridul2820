@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/social/assets/BMC.svg" />][buymeacoffee]
+[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
 
 <br />
 <br />
