@@ -1,4 +1,4 @@
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="330">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="320">][myprofile]
 
 ## Hi, I'm Mridul
 
@@ -29,7 +29,7 @@
 
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="330">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="320">][myprofile]
 
 <br />
 
@@ -43,15 +43,15 @@
 
 [<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
 [<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
-[<img align="left" alt="JavaScript" width="31px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
+[<img align="left" alt="JavaScript" width="30px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
 [<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
 [<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
+<br />
 <br />
 [<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />][myprofile]
 [<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/github.svg" />][myprofile]
 [<img align="left" alt="Firebase" width="35px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
 
-<br />
 <br />
 
 ### 🛠 Softwares I Use : 
@@ -61,11 +61,9 @@
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/220px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a>
 
-
-<br />
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="330">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="320">][myprofile]
 
 ---
 
