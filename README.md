@@ -1,4 +1,4 @@
-<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" width="450" height="350">
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" width="400" height="300">][myprofile]
 
 ## Hi, I'm Mridul
 
@@ -29,7 +29,7 @@
 
 <br />
 
-<img align="right" src="https://www.allianzetechnologies.com/blog/wp-content/uploads/2017/10/web-design.gif" alt="Coder GIF" width="450" height="350">
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" width="400" height="300">][myprofile]
 
 <br />
 <br />
@@ -62,6 +62,8 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/220px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a>
 
 <br />
+
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" width="400" height="300">][myprofile]
 
 ---
 
