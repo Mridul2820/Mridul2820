@@ -1,4 +1,4 @@
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="320">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="350">][myprofile]
 
 
 ## Hi, I'm Mridul
