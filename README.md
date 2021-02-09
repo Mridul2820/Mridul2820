@@ -1,7 +1,7 @@
 
 ## Hi, I'm Mridul
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="320">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="300">][myprofile]
 
 ## I'm a Student and a Web Developer!
 
@@ -30,7 +30,7 @@
 
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="320">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="300">][myprofile]
 
 <br />
 
@@ -64,7 +64,7 @@
 
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="320">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="300">][myprofile]
 
 ---
 
