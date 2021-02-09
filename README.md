@@ -1,6 +1,6 @@
 ## Hi, I'm Mridul
 
-## I'm a Student and Web Developer!
+## I'm a Student and a Web Developer!
 
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
@@ -33,15 +33,9 @@
 
 <br />
 <br />
-<br />
-<br />
 
-<img align="left" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="450" height="350">
+<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="450" height="350">
 
-
-<br />
-<br />
-<br />
 <br />
 
 ### ⚙ Languages and Tools  I use :
@@ -55,7 +49,6 @@
 [<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/github.svg" />][myprofile]
 [<img align="left" alt="Firebase" width="33px" src="https://mridul2820.github.io/github-assets/assets/firebase.png" />][myprofile]
 
-<br />
 <br />
 
 ### 🛠 Softwares I Use : 
