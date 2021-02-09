@@ -32,12 +32,13 @@
 <br />
 <br />
 
-[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/BMC.svg" />][buymeacoffee]
+[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/social/assets/BMC.svg" />][buymeacoffee]
 
 <br />
 <br />
-<br />
-<br />
+
+
+<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/site.gif" alt="Coder GIF" width="450" height="350">
 
 
 <br />
