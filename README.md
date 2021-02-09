@@ -1,5 +1,4 @@
-
-<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/site.gif" alt="Coder GIF" width="450" height="350">
+<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" width="450" height="350">
 
 ## Hi, I'm Mridul
 
@@ -37,8 +36,7 @@
 <br />
 <br />
 
-
-
+<img align="right" src="https://www.allianzetechnologies.com/blog/wp-content/uploads/2017/10/web-design.gif" alt="Coder GIF" width="450" height="350">
 
 <br />
 <br />
