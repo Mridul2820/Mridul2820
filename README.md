@@ -1,5 +1,5 @@
 
-<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" width="450" height="350">
+<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/site.gif" alt="Coder GIF" width="450" height="350">
 
 ## Hi, I'm Mridul
 
@@ -38,9 +38,9 @@
 <br />
 
 
-<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/site.gif" alt="Coder GIF" width="450" height="350">
 
 
+<br />
 <br />
 
 ### ⚙ Languages and Tools  I use :
