@@ -31,12 +31,12 @@
 <br />
 <br />
 
-[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
-
-<br />
-<br />
-
 <img align="right" src="https://www.allianzetechnologies.com/blog/wp-content/uploads/2017/10/web-design.gif" alt="Coder GIF" width="450" height="350">
+
+<br />
+<br />
+
+[<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
 
 <br />
 <br />
