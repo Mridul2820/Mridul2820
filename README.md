@@ -2,9 +2,6 @@
 
 ## I'm a Student and Web Developer!
 
-<img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="450" height="350">
-
-
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
 ◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
@@ -39,6 +36,14 @@
 <br />
 <br />
 
+<img align="left" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coder GIF" width="450" height="350">
+
+
+<br />
+<br />
+<br />
+<br />
+
 ### ⚙ Languages and Tools  I use :
 
 [<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/html-5.svg" />][myprofile]
@@ -60,6 +65,8 @@
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/220px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a>
 
+<br />
+<br />
 <br />
 <br />
 
