@@ -1,8 +1,6 @@
-
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="320">][myprofile]
 
 ## Hi, I'm Mridul
-
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="320">][myprofile]
 
 ## I'm a Student and a Web Developer!
 
@@ -52,6 +50,7 @@
 [<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/github.svg" />][myprofile]
 [<img align="left" alt="Firebase" width="35px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
 
+<br />
 <br />
 
 ### 🛠 Softwares I Use : 
