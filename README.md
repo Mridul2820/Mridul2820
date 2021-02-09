@@ -1,4 +1,4 @@
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="320">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="330">][myprofile]
 
 ## Hi, I'm Mridul
 
@@ -29,7 +29,7 @@
 
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="320">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="330">][myprofile]
 
 <br />
 
@@ -46,6 +46,7 @@
 [<img align="left" alt="JavaScript" width="31px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
 [<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
 [<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
+<br />
 [<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />][myprofile]
 [<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/github.svg" />][myprofile]
 [<img align="left" alt="Firebase" width="35px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
@@ -64,7 +65,7 @@
 <br />
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="320">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="330">][myprofile]
 
 ---
 
