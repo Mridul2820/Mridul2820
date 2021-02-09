@@ -20,7 +20,6 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="mridul2820 | YouTube" width="35px" src="https://mridul2820.github.io/github-assets/assets/youtube.svg" />][sportzhut]
 [<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/facebook.svg" />][facebook]
 [<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/instagram.svg" />][instagram]
 [<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/twitter.svg" />][twitter]
@@ -31,6 +30,8 @@
 
 [<img align="left" alt="mridul2820 | bmc" width="250px" src="https://mridul2820.github.io/github-assets/assets/BMC.svg" />][buymeacoffee]
 
+<br />
+<br />
 <br />
 <br />
 
@@ -58,9 +59,6 @@
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/220px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a>
 
-<br />
-<br />
-<br />
 <br />
 
 ---
