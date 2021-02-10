@@ -1,3 +1,4 @@
+[<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
 
 ## Hi, I'm Mridul
 
@@ -84,7 +85,6 @@
 ➡️ [more sportz videos...][sportzhut]
 
 ---
-<img src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />
 
 [myprofile]: https://github.com/Mridul2820
 [buymeacoffee]: https://www.buymeacoffee.com/Mriduls
