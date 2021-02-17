@@ -76,11 +76,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
-- [Happy Birthday Mr 360 | ABdeVilliers Birthday | Fastest Century In ODI | Devilliers WhatsApp Status](https://www.youtube.com/watch?v=KoOAdNJhCqc)
 - [Sreesanth reacts after he fails to make the IPL 2021 auction final list](https://www.youtube.com/watch?v=DZmbrf17OSo)
 - [Yuzi Chahal  Shreyas Iyer Funny Video 😂😂 | Dhanashree Verma & Shreyas Iyer Dance Video](https://www.youtube.com/watch?v=zwsQLJNSLzI)
 - [Warner's Daughter Wearing the Jersey of Virat Kohli | David Warner Daughter Is Virat Kohli Fan!](https://www.youtube.com/watch?v=mUDao8VPuOM)
 - [Team India Retro Jersey🔥 | New look of Team 🤩 | Sportz Hut](https://www.youtube.com/watch?v=YRcvXFXn0eQ)
+- [Happy Birthday Phil Hughes #63NotOut | Cricket will remember you forever](https://www.youtube.com/watch?v=m7cWGKtEM0k)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
