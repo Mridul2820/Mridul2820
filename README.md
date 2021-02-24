@@ -89,7 +89,7 @@
 [myprofile]: https://github.com/Mridul2820
 [buymeacoffee]: https://www.buymeacoffee.com/Mriduls
 [CricHut]: https://www.facebook.com/crichutcricket/
-[sportzhut]: https://www.youtube.com/channel/UC0Qlfx5uoTJKwat8iWl3vsA
+[sportzhut]: https://www.youtube.com/sportzhut
 [facebook]: https://www.facebook.com/mridul.panda.754/
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
