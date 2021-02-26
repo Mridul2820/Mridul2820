@@ -76,11 +76,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
+- [Indian Cricketer Yusuf Pathan Announces Retirement From All Forms Of Cricket](https://www.youtube.com/watch?v=WcUIk_gcVNQ)
 - [Pawri Ho Rahi Hai Virat Kohli version 🤩💯💥 | #Virat #Kohli #ViratKohli #PawriHoRaiHai](https://www.youtube.com/watch?v=o59KKxBiljI)
 - [Sreesanth reacts after he fails to make the IPL 2021 auction final list](https://www.youtube.com/watch?v=DZmbrf17OSo)
 - [Yuzi Chahal  Shreyas Iyer Funny Video 😂😂 | Dhanashree Verma & Shreyas Iyer Dance Video](https://www.youtube.com/watch?v=zwsQLJNSLzI)
 - [Warner's Daughter Wearing the Jersey of Virat Kohli | David Warner Daughter Is Virat Kohli Fan!](https://www.youtube.com/watch?v=mUDao8VPuOM)
-- [Team India Retro Jersey🔥 | New look of Team 🤩 | Sportz Hut](https://www.youtube.com/watch?v=YRcvXFXn0eQ)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
