@@ -9,6 +9,8 @@
 
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
+◾ 💻 I love to Play, Watch & talk about **Cricket**.
+<br/>
 ◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
 <br/>
 ◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
