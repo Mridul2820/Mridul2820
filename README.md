@@ -9,7 +9,7 @@
 
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
-◾ 🏏 I love to Play, Watch & talk about **Cricket**.
+◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
 <br/>
 ◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
 <br/>
