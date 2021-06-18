@@ -78,11 +78,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
+- [India vs Newzealand Day 1 of WTC Final Highlights 😂 #WTCFinal2021 #INDvNZ](https://www.youtube.com/watch?v=glVEAGHGVUQ)
 - [Happy Birthday Rohit Sharma #HappyBirthdayRohitSharma #HappyBirthdayRohit #Hitman](https://www.youtube.com/watch?v=rm-OLcCff4Y)
 - [RCB vs KKR Live Match Today | IPL 2021 Live Match Today |  IPL Match Live](https://www.youtube.com/watch?v=TTmNbzbEmFg)
 - [KKR  vs MI Live Match Today | IPL 2021 Live Match Today |  IPL Match Live Bengali Commentary](https://www.youtube.com/watch?v=JbmcLmdi_TM)
 - [RR vs PBKS Live Match Today | IPL 2021 Live Match Today |  Rajasthan Royals vs Punjab Kings Live](https://www.youtube.com/watch?v=Q2xAGnGQUOU)
-- [SRH Vs KKR Highlights | IPL 2021 Match Highlights| IPL 2021 Match](https://www.youtube.com/watch?v=X0nxWkOYq9g)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
