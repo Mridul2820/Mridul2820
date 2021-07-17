@@ -13,8 +13,6 @@
 <br/>
 ◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
 <br/>
-◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
-<br/>
 ◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
 <br/>
 ◾ 🥅 2021 Goals: Learning **React Native & Next JS**.
