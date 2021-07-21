@@ -1,4 +1,5 @@
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
+[<img align="right" src="https://img.shields.io/github/followers/mridul2820?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
 ## Hi, I'm Mridul
 
@@ -86,6 +87,7 @@
 ---
 
 [myprofile]: https://github.com/Mridul2820
+[githubfollowers]: https://github.com/mridul2820?tab=followers
 [buymeacoffee]: https://www.buymeacoffee.com/Mriduls
 [CricHut]: https://www.facebook.com/crichutcricket/
 [sportzhut]: https://www.youtube.com/sportzhut
