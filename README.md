@@ -73,7 +73,7 @@
 <img align="center" alt="Mridul's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
 
 ---
-[![Mridul's github activity graph](https://mridul2820.herokuapp.com/graph?username=mridul2820&theme=github-light&custom_title=Mridul%27s%20Contribution%20Graph)](https://mridul2820.herokuapp.com/graph?username=mridul2820)
+[![Mridul's github activity graph](https://mridul2820.herokuapp.com/graph?username=mridul2820&custom_title=Mridul%27s%20Contribution%20Graph)](https://mridul2820.herokuapp.com/graph?username=mridul2820)
 
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
