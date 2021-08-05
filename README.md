@@ -16,7 +16,7 @@
 <br/>
 ◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
 <br/>
-◾ 🥅 2021 Goals: Learning **React Native & Next JS**.
+◾ 🥅 2021 Goals: Learning **Next JS**.
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
 <br/>
