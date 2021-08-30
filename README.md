@@ -8,7 +8,7 @@
 ## I'm a Student and a Web Developer!
 
 
-◾ 💻 Currently learning **[React][react]**.
+◾ 💻 Currently learning **[React][react]** & **[Next JS][nextjs]**.
 <br/>
 ◾ 🏏 I love to Watch & Talk about **Cricket**.
 <br/>
@@ -16,7 +16,7 @@
 <br/>
 ◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
 <br/>
-◾ 🥅 2021 Goals: Learning **Next JS**.
+◾ 🥅 2021 Goals: Learning **[React Native][reactnative]**.
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
 <br/>
@@ -97,4 +97,7 @@
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
 [hattsoff]: https://www.hattsoffstore.com/
+
 [react]: https://reactjs.org/
+[nextjs]: https://nextjs.org/
+[reactnative]: https://reactnative.dev/
