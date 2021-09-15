@@ -78,7 +78,7 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
-- [Franjo Prce Skills & Goals 💥 | East Bengal New Foreigner ❤️💛](https://www.youtube.com/watch?v=W2uQktDMZeM)
+- [Franjo Prce Skills & Goals 💥 | East Bengal New Croatian Foreigner ❤️💛](https://www.youtube.com/watch?v=W2uQktDMZeM)
 - [Tomislav Mrcela Skills & Goals💥 | East Bengal New Foreigner Centre Back ❤️💛](https://www.youtube.com/watch?v=L80Adnm_lPQ)
 - [Daniel Chima Chukwu Skills & Goals💥 | East Bengal New Foreigner ❤️💛](https://www.youtube.com/watch?v=F_RcnSeidfE)
 - [India vs Newzealand Day 1 of WTC Final Highlights 😂 #WTCFinal2021 #INDvNZ](https://www.youtube.com/watch?v=glVEAGHGVUQ)
