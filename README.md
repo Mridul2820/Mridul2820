@@ -40,7 +40,6 @@
 
 <br/>
 <br/>
-<br/>
 
 ### ⚙ Languages and Tools I use :
 
