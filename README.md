@@ -10,15 +10,15 @@
 
 ◾ 💻 Currently learning **[React][react]** & **[Next JS][nextjs]**.
 <br/>
-◾ 🏏 I love to Watch & Talk about **Cricket**.
+◾ 🏏 I love to Watch & Talk about **Cricket**
 <br/>
-◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
+◾ ⚾  Follow My FB Page **[CricHut][CricHut]**
 <br/>
-◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
+◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**
 <br/>
-◾ 🥅 2021 Goals: Learning **[React Native][reactnative]**.
+◾ 🥅 2021 Goals: Learning **[React Native][reactnative]**
 <br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
+◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much
 <br/>
 <br/>
 
