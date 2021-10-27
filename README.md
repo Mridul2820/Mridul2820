@@ -14,7 +14,7 @@
 <br/>
 ◾ ⚾  Follow My FB Page **[CricHut][CricHut]**
 <br/>
-◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**
+◾ ▶  Read Blogs on  **[sportzhut.com][sportzhut]**
 <br/>
 ◾ 🥅 2021 Goals: Learning **[React Native][reactnative]**
 <br/>
@@ -92,7 +92,7 @@
 [githubfollowers]: https://github.com/mridul2820?tab=followers
 [buymeacoffee]: https://www.buymeacoffee.com/Mriduls
 [CricHut]: https://www.facebook.com/crichutcricket/
-[sportzhut]: https://www.youtube.com/sportzhut
+[sportzhut]: https://www.sportzhut.com/
 [facebook]: https://www.facebook.com/mridul.panda.754/
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
