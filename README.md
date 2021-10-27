@@ -14,7 +14,7 @@
 <br/>
 ◾ ⚾  Follow My FB Page **[CricHut][CricHut]**
 <br/>
-◾ ▶  Read Blogs on  **[sportzhut.com][sportzhut]**
+◾ ▶  Read Blogs on <a href="https://www.sportzhut.com/" rel="follow">**sportzhut.com**</a>
 <br/>
 ◾ 🥅 2021 Goals: Learning **[React Native][reactnative]**
 <br/>
