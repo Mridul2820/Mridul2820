@@ -78,11 +78,11 @@
 
 ## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
 <!-- YOUTUBE:START -->
+- [Happy Birthday Virat Kohli](https://www.youtube.com/watch?v=FufwLFoBM7U)
 - [The message from a Team India fan after India's 2nd Defeat in T20 World Cup](https://www.youtube.com/watch?v=dlViGGyZ0kg)
 - [Team India celebrating Halloween](https://www.youtube.com/watch?v=yOGWELExiW0)
 - [Virat Kohli Copying Shikhar Dhawan 😅😅 #shorts](https://www.youtube.com/watch?v=wEg7XYUGCvw)
 - [Antonio Perosevic Skills & Goals 💥 | East Bengal New Striker | Highlights ❤️💛](https://www.youtube.com/watch?v=Z8jy4tWoPXQ)
-- [Darren Sidoel | Skill, Goal & Assist💥 | East Bengal New Dutch Foreigner ❤️💛](https://www.youtube.com/watch?v=WbLZYBaDKZw)
 <!-- YOUTUBE:END -->
 ➡️ [more sportz videos...][sportzhut]
 
