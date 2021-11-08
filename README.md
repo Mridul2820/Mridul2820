@@ -80,7 +80,7 @@
 <!-- YOUTUBE:START -->
 - [Happy Birthday King Kohli](https://www.youtube.com/watch?v=aqPJ2EYdmYY)
 - [Happy Birthday Virat Kohli](https://www.youtube.com/watch?v=FufwLFoBM7U)
-- [The message from a Team India fan after India's 2nd Defeat in T20 World Cup](https://www.youtube.com/watch?v=dlViGGyZ0kg)
+- [The message from a Team India fan after India&#39;s 2nd Defeat in T20 World Cup](https://www.youtube.com/watch?v=dlViGGyZ0kg)
 - [Team India celebrating Halloween](https://www.youtube.com/watch?v=yOGWELExiW0)
 - [Virat Kohli Copying Shikhar Dhawan 😅😅 #shorts](https://www.youtube.com/watch?v=wEg7XYUGCvw)
 <!-- YOUTUBE:END -->
