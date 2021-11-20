@@ -35,10 +35,10 @@
 
 [<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="280">][myprofile]
 
-<br/>
-
 [<img align="left" alt="mridul2820" width="250px" src="https://mridul2820.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -49,6 +49,7 @@
 [<img align="left" alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
 [<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
 [<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
+[<img align="left" alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />][myprofile]
 <br/>
 <br/>
 [<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />][myprofile]
