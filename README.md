@@ -71,9 +71,13 @@
 ---
 
 ## 💳 Language Card
-<img align="center" alt="Mridul's Github Stats" src="https://github-readme-stats-mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
+<img align="center" alt="Mridul's Github Stats" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
 
 ---
+
+<img align="center" alt="Mridul's Github Stats" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&theme=highcontrast&show_icons=true&count_private=true" />
+
+
 [![Mridul's github activity graph](https://mridul2820.herokuapp.com/graph?username=mridul2820&custom_title=Mridul%27s%20Contribution%20Graph)](https://mridul2820.herokuapp.com/graph?username=mridul2820)
 
 
