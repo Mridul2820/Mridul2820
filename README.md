@@ -33,7 +33,7 @@
 <br/>
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/comp.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="280">][myprofile]
 
 [<img align="left" alt="mridul2820" width="250px" src="https://mridul2820.github.io/github-assets/assets/social/BMC.svg" />][buymeacoffee]
 
@@ -66,30 +66,14 @@
 
 <br />
 
-[<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/responsive.gif" alt="Coder GIF" height="280">][myprofile]
-
 ---
 
-## 💳 Language Card
-<img align="center" alt="Mridul's Github Stats" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
-
----
-
-<img align="center" alt="Mridul's Github Stats" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&theme=highcontrast&show_icons=true&count_private=true" />
+## 💳 Github Stats
+| <img align="center" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Mridul2820&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 
 [![Mridul's github activity graph](https://mridul2820.herokuapp.com/graph?username=mridul2820&custom_title=Mridul%27s%20Contribution%20Graph)](https://mridul2820.herokuapp.com/graph?username=mridul2820)
-
-
-## 📺 Latest YouTube Videos on [Sportz Hut][sportzhut] 🏏
-<!-- YOUTUBE:START -->
-- [Happy Birthday King Kohli](https://www.youtube.com/watch?v=aqPJ2EYdmYY)
-- [The message from a Team India fan after India&#39;s 2nd Defeat in T20 World Cup](https://www.youtube.com/watch?v=dlViGGyZ0kg)
-- [Team India celebrating Halloween](https://www.youtube.com/watch?v=yOGWELExiW0)
-- [Virat Kohli Copying Shikhar Dhawan 😅😅 #shorts](https://www.youtube.com/watch?v=wEg7XYUGCvw)
-- [Antonio Perosevic Skills &amp; Goals 💥 | East Bengal New Striker | Highlights ❤️💛](https://www.youtube.com/watch?v=Z8jy4tWoPXQ)
-<!-- YOUTUBE:END -->
-➡️ [more sportz videos...][sportzhut]
 
 ---
 
