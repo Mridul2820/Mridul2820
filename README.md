@@ -16,7 +16,7 @@
 <br/>
 ◾ ▶  Read Blogs on <a href="https://www.sportzhut.com/" rel="follow">**sportzhut.com**</a>
 <br/>
-◾ 🥅 2021 Goals: Learning **[React Native][reactnative]**
+◾ 🥅 2022 Goals: Learning **[React Native][reactnative]**
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much
 <br/>
