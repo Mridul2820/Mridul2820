@@ -8,7 +8,7 @@
 ## I'm a Student and a Web Developer!
 
 
-◾ 💻 Currently learning **[React][react]** & **[Next JS][nextjs]**.
+◾ 💻 Currently Working with **[React][react]** & **[Next JS][nextjs]**.
 <br/>
 ◾ 🏏 I love to Watch & Talk about **Cricket**
 <br/>
