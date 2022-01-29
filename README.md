@@ -16,7 +16,7 @@
 <br/>
 ◾ ▶  Read Blogs on <a href="https://www.sportzhut.com/" rel="follow">**sportzhut.com**</a>
 <br/>
-◾ 🥅 2022 Goals: Learning **[React Native][reactnative]** & **Flutter**
+◾ 🥅 2022 Goals: Learning **[React Native][reactnative]** & **[Flutter][flutter]**
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much
 <br/>
@@ -73,10 +73,6 @@
 | ------------- | ------------- |
 
 
-[![Mridul's github activity graph](https://mridul2820.herokuapp.com/graph?username=mridul2820&custom_title=Mridul%27s%20Contribution%20Graph)](https://mridul2820.herokuapp.com/graph?username=mridul2820)
-
----
-
 [myprofile]: https://github.com/Mridul2820
 [githubfollowers]: https://github.com/mridul2820?tab=followers
 [buymeacoffee]: https://www.buymeacoffee.com/Mriduls
@@ -90,3 +86,4 @@
 [react]: https://reactjs.org/
 [nextjs]: https://nextjs.org/
 [reactnative]: https://reactnative.dev/
+[flutter]: https://flutter.dev/
