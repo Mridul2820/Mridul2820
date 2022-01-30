@@ -52,9 +52,11 @@
 [<img align="left" alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />][myprofile]
 <br/>
 <br/>
-[<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />][myprofile]
-[<img align="left" alt="GitHub" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/github.svg" />][myprofile]
-[<img align="left" alt="Firebase" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
+[<img align="left" alt="Graphql" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/graphql.png" />][myprofile]
+[<img align="left" alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />][myprofile]
+[<img align="left" alt="mui" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/mui.png" />][myprofile]
+[<img align="left" alt="styled-components" width="28px" src="https://mridul2820.github.io/github-assets/assets/tech/styled-components.png" />][myprofile]
+[<img align="left" alt="Firebase" width="36px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
 
 <br/>
 
