@@ -80,7 +80,7 @@
 [buymeacoffee]: https://www.buymeacoffee.com/Mriduls
 [CricHut]: https://www.facebook.com/crichutcricket/
 [sportzhut]: https://www.sportzhut.com/
-[facebook]: https://www.facebook.com/mridul.panda.754/
+[facebook]: https://www.facebook.com/imridul2820
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
 [hattsoff]: https://www.hattsoffstore.com/
