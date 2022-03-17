@@ -1,7 +1,7 @@
 [<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mridul2820.mridul2820" />][myprofile]
 [<img align="right" src="https://img.shields.io/github/followers/mridul2820?label=Followers&style=social" alt="GitHub Badge" />][githubfollowers]
 
-## Hi, I'm Mridul
+## Hi, I'm [Mridul](https://links.mridul.tech/)
 
 [<img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">][myprofile]
 
