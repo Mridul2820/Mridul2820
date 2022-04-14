@@ -8,7 +8,7 @@
 ## I'm a Frontend Web & Mobile App Developer!
 
 
-◾ 💻 Currently Working with **[React][react]** & **[Next JS][nextjs]**.
+◾ 💻 Currently Working with **[React JS][react] & [Next JS][nextjs]**.
 <br/>
 ◾ 🏏 I love to Watch & Talk about **Cricket**
 <br/>
@@ -16,7 +16,7 @@
 <br/>
 ◾ ▶  Read Blogs on <a href="https://www.sportzhut.com/" rel="follow">**sportzhut.com**</a>
 <br/>
-◾ 🥅 2022 Goals: Learning **Dart & [Flutter][flutter]**
+◾ 🥅 2022 Goals: Learning **[Dart][dart] & [Flutter][flutter]**
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much
 <br/>
@@ -89,3 +89,4 @@
 [nextjs]: https://nextjs.org/
 [reactnative]: https://reactnative.dev/
 [flutter]: https://flutter.dev/
+[dart]: https://dart.dev/
