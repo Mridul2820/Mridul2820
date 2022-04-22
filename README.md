@@ -18,7 +18,7 @@
 <br/>
 ◾ 🥅 2022 Goals: Learning **[Dart][dart] & [Flutter][flutter]**
 <br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much
+◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com)** sooo much
 <br/>
 <br/>
 
