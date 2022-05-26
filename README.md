@@ -27,24 +27,23 @@
   <h3>⚙ Languages and Tools I use :</h3>
 </div>
 
-<br/>
+<div align="center"> 
+  <img alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />
+  <img alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
+  <img alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />
+  <img alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />
+  <img alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />
+  <img alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />
+  <img alt="Graphql" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/graphql.png" />
+  <img alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />
+  <img alt="mui" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/mui.png" />
+  <img alt="styled-components" width="28px" src="https://mridul2820.github.io/github-assets/assets/tech/styled-components.png" />
+  <img alt="Firebase" width="36px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />
+  <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/>
+  <img alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/>
+</div>
 
-[<img alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
-[<img alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
-[<img alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
-[<img alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
-[<img alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
-[<img alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />][myprofile]
-[<img alt="Graphql" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/graphql.png" />][myprofile]
-[<img alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />][myprofile]
-[<img alt="mui" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/mui.png" />][myprofile]
-[<img alt="styled-components" width="28px" src="https://mridul2820.github.io/github-assets/assets/tech/styled-components.png" />][myprofile]
-[<img alt="Firebase" width="36px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
-[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][myprofile]
-[<img alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/>][myprofile]
-[<img alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/>][myprofile]
-
-<br />
 <br />
 <br/>
 
