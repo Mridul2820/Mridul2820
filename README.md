@@ -6,7 +6,6 @@
 
 [<img src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653556868/Mridul2820%20-%20Github/Mridul_-Github_banner_1_wzp1ws.png" alt="Mridul">][mridultech]
 
-
 ◾ 💻 Currently Working with **[React JS][react] & [Next JS][nextjs]**.
 <br/>
 ◾ 🏏 I love to Watch & Talk about **Cricket**
@@ -16,7 +15,6 @@
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com)** sooo much
 <br/>
 <br/>
-
 
 ### ⚙ Languages and Tools I use :
 
@@ -71,23 +69,21 @@
 <br/>
 <br />
 
-
 ## 💳 Github Stats
-| <img align="center" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Mridul2820&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
 
+| <img align="center" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Mridul2820&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [myprofile]: https://github.com/Mridul2820
 [githubfollowers]: https://github.com/mridul2820?tab=followers
 [buymeacoffee]: https://www.buymeacoffee.com/Mriduls
-[CricHut]: https://www.facebook.com/crichutcricket/
+[crichut]: https://www.facebook.com/crichutcricket/
 [sportzhut]: https://www.sportzhut.com/
 [facebook]: https://www.facebook.com/imridul2820
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
 [hattsoff]: https://www.hattsoffstore.com/
 [mridultech]: https://www.mridul.tech/
-
 [react]: https://reactjs.org/
 [nextjs]: https://nextjs.org/
 [reactnative]: https://reactnative.dev/
