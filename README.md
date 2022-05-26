@@ -16,30 +16,42 @@
 <br/>
 <br/>
 
-### ⚙ Languages and Tools I use :
+[<img align="left" alt="Mridul Panda | Twitter" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653581812/Mridul2820%20-%20Github/twitter_hqnx74.svg" />][twitter]
+[<img align="left" alt="Mridul Panda | Instagram" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653581812/Mridul2820%20-%20Github/instagram_sen8xm.svg" />][instagram]
+[<img align="left" alt="Mridul Panda | Linkedin" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653581812/Mridul2820%20-%20Github/linkedin_lttshj.svg" />][linkedin]
 
-[<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
-[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
-[<img align="left" alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
-[<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
-[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
-[<img align="left" alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />][myprofile]
-[<img align="left" alt="Graphql" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/graphql.png" />][myprofile]
-[<img align="left" alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />][myprofile]
-[<img align="left" alt="mui" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/mui.png" />][myprofile]
-[<img align="left" alt="styled-components" width="28px" src="https://mridul2820.github.io/github-assets/assets/tech/styled-components.png" />][myprofile]
-[<img align="left" alt="Firebase" width="36px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
-<a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
-
-<br />
-<br />
+<br/>
+<br/>
 
 <div align="center"> 
-  <h2>Favourite Projects</h2>
+  <h3>⚙ Languages and Tools I use :</h3>
 </div>
+
 <br/>
+
+[<img alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
+[<img alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
+[<img alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
+[<img alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
+[<img alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
+[<img alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />][myprofile]
+[<img alt="Graphql" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/graphql.png" />][myprofile]
+[<img alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />][myprofile]
+[<img alt="mui" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/mui.png" />][myprofile]
+[<img alt="styled-components" width="28px" src="https://mridul2820.github.io/github-assets/assets/tech/styled-components.png" />][myprofile]
+[<img alt="Firebase" width="36px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
+[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][myprofile]
+[<img alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/>][myprofile]
+[<img alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/>][myprofile]
+
+<br />
+<br />
+<br/>
+
+<div align="center"> 
+  <h3>Favourite Projects</h3>
+</div>
+
 <div align="center"> 
   <a href="https://github.com/Mridul2820/git-o-get">
     <img width="400" alt="Git o get" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569832/Mridul2820%20-%20Github/git_o_get_hzrymn.png" />
@@ -59,17 +71,11 @@
 </div>
 
 <br/>
-
-### 🧧 Connect with me:
-
-[<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
-[<img align="left" alt="mridul2820 | Instagram" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/instagram.svg" />][instagram]
-[<img align="left" alt="mridul2820 | Twitter" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/twitter.svg" />][twitter]
-
-<br/>
 <br />
 
-## 💳 Github Stats
+<div align="center"> 
+  <h3>💳 Github Stats</h3>
+</div>
 
 | <img align="center" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Mridul2820&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,7 +88,7 @@
 [facebook]: https://www.facebook.com/imridul2820
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
-[hattsoff]: https://www.hattsoffstore.com/
+[linkedin]: https://www.linkedin.com/in/mridul2820/
 [mridultech]: https://www.mridul.tech/
 [react]: https://reactjs.org/
 [nextjs]: https://nextjs.org/
