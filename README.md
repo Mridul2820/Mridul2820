@@ -4,7 +4,7 @@
 <br />
 <br />
 
-[<img src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653556868/Mridul2820%20-%20Github/Mridul_-Github_banner_1_wzp1ws.png" alt="Mridul">][myprofile]
+[<img src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653556868/Mridul2820%20-%20Github/Mridul_-Github_banner_1_wzp1ws.png" alt="Mridul">][mridultech]
 
 
 ◾ 💻 Currently Working with **[React JS][react] & [Next JS][nextjs]**.
@@ -16,6 +16,27 @@
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com)** sooo much
 <br/>
 <br/>
+
+
+### ⚙ Languages and Tools I use :
+
+[<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
+[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
+[<img align="left" alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
+[<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
+[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
+[<img align="left" alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />][myprofile]
+[<img align="left" alt="Graphql" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/graphql.png" />][myprofile]
+[<img align="left" alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />][myprofile]
+[<img align="left" alt="mui" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/mui.png" />][myprofile]
+[<img align="left" alt="styled-components" width="28px" src="https://mridul2820.github.io/github-assets/assets/tech/styled-components.png" />][myprofile]
+[<img align="left" alt="Firebase" width="36px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
+<a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
+
+<br />
+<br />
 
 <div align="center"> 
   <h2>Favourite Projects</h2>
@@ -41,26 +62,6 @@
 
 <br/>
 
-### ⚙ Languages and Tools I use :
-
-[<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />][myprofile]
-[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
-[<img align="left" alt="JavaScript" width="25px" src="https://mridul2820.github.io/github-assets/assets/tech/js.png" />][myprofile]
-[<img align="left" alt="Sass" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/sass.svg" />][myprofile]
-[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
-[<img align="left" alt="Next JS" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/next-js.svg" />][myprofile]
-[<img align="left" alt="Graphql" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/graphql.png" />][myprofile]
-[<img align="left" alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />][myprofile]
-[<img align="left" alt="mui" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/mui.png" />][myprofile]
-[<img align="left" alt="styled-components" width="28px" src="https://mridul2820.github.io/github-assets/assets/tech/styled-components.png" />][myprofile]
-[<img align="left" alt="Firebase" width="36px" src="https://mridul2820.github.io/github-assets/assets/tech/firebase.png" />][myprofile]
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
-<a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
-
-<br />
-<br />
-
 ### 🧧 Connect with me:
 
 [<img align="left" alt="mridul2820 | Facebook" width="35px" src="https://mridul2820.github.io/github-assets/assets/social/facebook.svg" />][facebook]
@@ -85,6 +86,7 @@
 [instagram]: https://www.instagram.com/i_mridul
 [twitter]: https://twitter.com/i_mridul
 [hattsoff]: https://www.hattsoffstore.com/
+[mridultech]: https://www.mridul.tech/
 
 [react]: https://reactjs.org/
 [nextjs]: https://nextjs.org/
