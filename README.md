@@ -23,25 +23,22 @@
 <br/>
 <div align="center"> 
   <a href="https://github.com/Mridul2820/git-o-get">
-    <img width="400" alt="Git o get" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/4_wyrnjq.png" />
+    <img width="400" alt="Git o get" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569832/Mridul2820%20-%20Github/git_o_get_hzrymn.png" />
   </a>
   <a href="https://github.com/Mridul2820/cineparadis">
-    <img width="400" alt="Cineparadis" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/1_eot3yb.png" />
+    <img width="400" alt="Cineparadis" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569833/Mridul2820%20-%20Github/cineparadis_fkkttg.png" />
   </a>
 </div>
-
 <br/>
-
 <div align="center"> 
   <a href="https://github.com/Mridul2820/github-codespaces-clone">
-    <img width="400" alt="Codespace Clone" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/2_n84ndm.png" />
+    <img width="400" alt="Codespace Clone" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569833/Mridul2820%20-%20Github/codespaces_clone_tgfkqx.png" />
   </a>
   <a href="https://github.com/Mridul2820/crypto-check">
-    <img width="400" alt="Crypto Check" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/3_xeeb0i.png" />
+    <img width="400" alt="Crypto Check" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569832/Mridul2820%20-%20Github/crypto_check_pwguob.png" />
   </a>
 </div>
 
-<br/>
 <br/>
 
 ### ⚙ Languages and Tools I use :
