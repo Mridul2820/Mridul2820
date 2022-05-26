@@ -15,7 +15,34 @@
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com)** sooo much
 <br/>
+<br/>
 
+<div align="center"> 
+  <h2>Favourite Projects</h2>
+</div>
+<br/>
+<div align="center"> 
+  <a href="https://github.com/Mridul2820/git-o-get">
+    <img width="400" alt="Git o get" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/4_wyrnjq.png" />
+  </a>
+  <a href="https://github.com/Mridul2820/cineparadis">
+    <img width="400" alt="Cineparadis" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/1_eot3yb.png" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center"> 
+  <a href="https://github.com/Mridul2820/github-codespaces-clone">
+    <img width="400" alt="Codespace Clone" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/2_n84ndm.png" />
+  </a>
+  <a href="https://github.com/Mridul2820/crypto-check">
+    <img width="400" alt="Crypto Check" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653558775/Mridul2820%20-%20Github/3_xeeb0i.png" />
+  </a>
+</div>
+
+<br/>
+<br/>
 
 ### ⚙ Languages and Tools I use :
 
