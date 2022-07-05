@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center"> 
-  <h3>⚙ Languages and Tools I use :</h3>
+  <h3>Languages and Tools I use</h3>
 </div>
 
 <div align="center"> 
