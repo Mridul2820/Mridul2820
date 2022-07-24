@@ -44,8 +44,19 @@
   <img alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/>
 </div>
 
-<br />
 <br/>
+<br />
+
+<div align="center"> 
+  <h3>💳 Github Stats</h3>
+</div>
+
+| <img align="center" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Mridul2820&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridul2820&" alt="mridul2820" width="500" /></div>
+
+<br />
 
 <div align="center"> 
   <h3>Favourite Projects</h3>
@@ -69,15 +80,6 @@
   </a>
 </div>
 
-<br/>
-<br />
-
-<div align="center"> 
-  <h3>💳 Github Stats</h3>
-</div>
-
-| <img align="center" src="https://mridul-github-readme-stats.vercel.app/api?username=Mridul2820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://mridul-github-readme-stats.vercel.app/api/top-langs/?username=Mridul2820&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [myprofile]: https://github.com/Mridul2820
 [githubfollowers]: https://github.com/mridul2820?tab=followers
