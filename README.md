@@ -6,7 +6,7 @@
 
 [<img src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653556868/Mridul2820%20-%20Github/Mridul_-Github_banner_1_wzp1ws.png" alt="Mridul">][mridultech]
 
-◾ 💻 Currently Working with **[React JS][react] & [Next JS][nextjs]**.
+◾ 💻 Currently Working with **[React JS][react], [Next JS][nextjs] & [React Native][react-native]**.
 <br/>
 ◾ 🏏 I love to Watch & Talk about **Cricket**
 <br/>
@@ -92,6 +92,7 @@
 [linkedin]: https://www.linkedin.com/in/mridul2820/
 [mridultech]: https://www.mridul.tech/
 [react]: https://reactjs.org/
+[react-native]: https://reactnative.dev/
 [nextjs]: https://nextjs.org/
 [reactnative]: https://reactnative.dev/
 [flutter]: https://flutter.dev/
