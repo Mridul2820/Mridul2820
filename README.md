@@ -10,7 +10,7 @@
 <br/>
 ◾ 🏏 I love to Watch & Talk about **Cricket**
 <br/>
-◾ 🥅 2022 Goals: Learning **[Dart][dart] & [Flutter][flutter]**
+◾ 🥅 2023 Goals: Learning New Technologies
 <br/>
 ◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com)** sooo much
 <br/>
