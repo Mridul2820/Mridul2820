@@ -11,9 +11,6 @@
 <br/>
 ◾ 🥅 2023 Goals: Learning New Technologies
 <br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com)** sooo much
-<br/>
-<br/>
 
 [<img align="left" alt="Mridul Panda | Twitter" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653581812/Mridul2820%20-%20Github/twitter_hqnx74.svg" />][twitter]
 [<img align="left" alt="Mridul Panda | Instagram" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653581812/Mridul2820%20-%20Github/instagram_sen8xm.svg" />][instagram]
